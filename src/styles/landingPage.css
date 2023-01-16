@@ -1,0 +1,66 @@
+body{
+    background-image: linear-gradient(90deg,rgb(75, 75, 244),rgb(199, 198, 198),rgb(75, 75, 244));
+}
+.landingPage{
+   
+
+height: 350px;
+width: 650px;
+background-image: linear-gradient(90deg,rgb(233, 74, 63),rgb(216, 216, 216),rgb(221, 244, 75));;
+margin:200px 0px 0px 500px;
+box-shadow: 5px 5px rgb(96, 95, 95);
+border-radius: 9px;
+}
+.icon{
+    margin-top: 20x;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.red img{
+height: 110px;
+width: 120px;
+
+
+}
+.green img{
+    height: 110px;
+    width: 120px;
+}
+.link{
+    display: flex;
+    margin-top: 10px;
+   justify-content:space-between ;
+   padding: 4px 90px 0px 30px;
+  
+  
+
+}
+.landingPage h1{
+    padding-top: 20px;
+}
+
+
+.link1 a{
+    text-decoration: none;
+    border:3px solid rgb(255, 0, 0);
+    padding:4px 12px;
+    border-radius: 9px;
+    margin-left: 125px;
+    
+    
+    
+    
+
+}
+.link2 a{
+  
+    text-decoration: none;
+    border: 3px solid green;
+    padding: 4px 16px;
+    border-radius: 9px;
+    margin-right: 70px;
+
+    
+
+}

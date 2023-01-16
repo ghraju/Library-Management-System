@@ -1,0 +1,47 @@
+.bookList{
+    display: inline-block;
+    background-color: gray;
+}
+.bookList h1{
+    text-transform: uppercase;
+    font-family: cursive;
+    padding: 10px;
+}
+.book_card{
+    height: auto;
+    width: 300px;
+    background-color:white;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 20px;
+}
+.book_card h1{
+    height: 50px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.book_card h6{
+    height: 50px;
+    margin-top: 30px;
+    /* height: 50px; */
+    font-size: 20px;
+    font-family: cursive;
+}
+.book_card img{
+    height: 150px;
+    width: 130px;
+    border-radius: 10px;
+}
+.book_card button{
+    background-color: white;
+    border: 3px solid crimson;
+    padding: 2px 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.book_card button:hover{
+    background-color: crimson;
+    color: white;
+    transition: 0.5s;
+}
